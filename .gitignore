@@ -23,6 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 
+
 # Unity3D generated meta files
 *.pidb.meta
 
@@ -40,4 +41,5 @@ OvrAvatar/
 OvrAudioManager/
 SteamVR/
 Plugins/
+ShaderCache/
 
