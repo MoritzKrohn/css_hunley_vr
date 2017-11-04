@@ -23,6 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 
+
 # Unity3D generated meta files
 *.pidb.meta
 
@@ -32,3 +33,15 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+OculusPlatform/
+OSPNative/
+OVR/
+OvrAvatar/
+OvrAudioManager/
+SteamVR/
+
+Library/
+Plugins/
+ShaderCache/
+

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HunleyVR.unity
+- path: Assets/VRTK-master/Assets/VRTK/Examples/021_Controller_GrabbingObjectsWithJoints.unity
   isLoaded: 1
   isActive: 1
